@@ -1,4 +1,4 @@
-Package: mycExpressionYoung
+Package: mycAffyData
 Title: Gene expression Affymetrix data of high and
     low levels of c-myc in P493-6 cells.
 Version: 0.1
@@ -7,4 +7,4 @@ Maintainer: Stephanie Hicks <shicks@jimmy.harvard.edu>
 Description: Genome-wide analysis on P493-6 cells expressing
     low or high levels of c-Myc. Gene expression Affymetrix
     data from Loven et al. (2012) Revisiting Global Gene
-    Expression. Cell 151: 476-482. From Rick Young's Group at MIT.
+    Expression. Cell 151: 476-482.

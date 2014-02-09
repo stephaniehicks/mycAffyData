@@ -1,4 +1,4 @@
-mycExpressionYoung
+mycAffyData
 =========
 
 This package contains the raw data from the paper by 
